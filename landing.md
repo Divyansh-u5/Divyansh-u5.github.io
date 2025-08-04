@@ -2,7 +2,7 @@
 title: Events
 layout: landing
 description: 'Here we will see my thoughts on events , New things happening in the world and much more .'
-image: assets/images/pic07.jpg
+image: assets/images/events.webp
 nav-menu: true
 ---
 
