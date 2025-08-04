@@ -1,11 +1,10 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Perspective'
+description: See a new World that you want to live 
 image: null
-author: null
-show_tile: false
+author: Divyanshu Sharma
+show_tile: true
 ---
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+😊 Hello , This is Divyanshu Sharma , welcoming you to Perspective where you can see the World from a whole new view point or we can say frame of mind . Also with this you are going to see, What I am learning in my Daily life as a student . My Creative and amazing Researchful projects , my journey to become a Actuary . Here we will learn lot of things . So just stay with me to see my journey . I think we can do more better things together , So just message me below or contact on Insta or Linkedin anywhere you want.😊😃😃
