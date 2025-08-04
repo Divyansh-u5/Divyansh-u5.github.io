@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Events
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Here we will see my thoughts on events , New things happening in the world and much more .'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Know Me </h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>This is Divyanshu Sharma student at IIT Madras BS Data Science Foundation level also a associate member of Societies Of Actuary preparig for its different exam currently for the P exam . I have completed my high school from Jawahar Navodaya Vidyalaya ,Pilibhit </p>
 	</div>
 </section>
 
