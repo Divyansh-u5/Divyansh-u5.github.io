@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Perspective'
 description: See a new World that you want to live 
-image: null
+image: assets/images/banner 2.png
 author: Divyanshu Sharma
 show_tile: true
 ---
