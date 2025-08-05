@@ -1,7 +1,7 @@
-#page for writing my book 
+
 ---
-layout: page
-title: 'LIFE'
+layout: page       #page for writing my book 
+title: 'LIFE'       
 sub title: Persepective of Mindset
 Category: [BOOK]
 nav-menu: true
