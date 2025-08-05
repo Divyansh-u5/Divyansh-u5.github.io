@@ -1,10 +1,9 @@
-
 ---
 layout: page       
-title: 'LIFE'       
-sub title: Persepective of Mindset
-Category: [BOOK]
+Landing title: 'LIFE'       
 nav-menu: true
+Category: [BOOK]
+description: Persepective of Mindset
 tiles: true
 image: assets/images/banner.png
 ---
