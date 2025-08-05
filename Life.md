@@ -5,9 +5,9 @@ nav-menu: true
 description: See How different perspective can change the way of life and living .
 image: assets/images/banner.png
 ---
-# Life " Perspective of Mindset " 
+<h2 class="aling-center> Life " Perspective of Mindset " </h2>
   A book being written by by me , explaining how different perspective can change the life , way of living ,,,
-                         **"Banta raha mai Yunhi Dhund Ek Dhoke Ki , Asal me to Jindagi Kuchh Aur hi Sikha gyi"**
+                        <p class="aling-center> **"Banta raha mai Yunhi Dhund Ek Dhoke Ki , Asal me to Jindagi Kuchh Aur hi Sikha gyi"** </p>
 
 ##  Life being Free Flow
 
