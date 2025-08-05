@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Know Me </h2>
 		</header>
-		<p>This is Divyanshu Sharma student at IIT Madras BS Data Science Foundation level also a associate member of Societies Of Actuary preparig for its different exam currently for the P exam . I have completed my high school from Jawahar Navodaya Vidyalaya ,Pilibhit </p>
+		<p>This is Divyanshu Sharma student at IIT Madras BS Data Science Foundation level also a associate member of Societies Of Actuary preparig for its different exam currently for the P exam . I have completed my high school from Jawahar Navodaya Vidyalaya ,Pilibhit in commerce stream. </p>
 	</div>
 </section>
 
