@@ -16,6 +16,10 @@ image: assets/images/banner.png
   If we see Life , So what is Life ? It is a Mindset of Different People for living and get survived the harsh reallity of Human Society and life . Like life to a Soldier is arena of war where he has to kill enemy for winning . It means he has to end his all problems to win his life While life to Blacksmith is a piece of ironbar , which has to hammered ,grinnedand heated in fire to Shine or to be valuable . Means man has to survive all the problems even these problems hit him hard , he has to survive the heat of tension to Shine.
 
    When life is just left free of flow then no one live life in his own way . It starts to be lived and controlled by others , Who enjoys to run other life . So if you want to live life in your own way then you have to make your mindset,you have to design your life by your ways , you have to make your mindset of being a human .
+<p class="align-center"><strong>"Human of perfection,Not caste"</strong>
+<p class="align-center"><strong>"Human of humanity,Not religion"</strong>
+<p class="align-center"><strong>"Human of Earth,Not a unsound alien of Mars"</strong>
+# If we talk about the human of today , He is just running behind the trend of sarcastism # group Such we take an example of people Sitting in a political group than they will divide themselve on basis of political parties and forget about their 
    
 
    
