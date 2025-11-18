@@ -4,7 +4,7 @@ title: Failed Great India
 description: Is India Great Now ???
 image: assets/images/pic01.jpg
 ---
-Dont go on the title , I am writting this becouse I think any place become great not by its building , not by serenic landscapes , not by its economy 
+Don't go on the title , I am writing this because I think any place become great not by its building , not by its serenic landscapes , not by its economy 
 But by its people , Actually by the action of People . And for now our action has lost their Greatness. 
 So here I write something for us , Read it and think once .
 
