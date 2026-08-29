@@ -6,12 +6,12 @@ description: A Lens to see the World through whole new frame of mind.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://divyansh-u5.github.io/ # the base hostname & protocol for your site
 author: Divyanshu Sharma
-street_address: Puranpur Road,Near Khalsa Dharam Kanta
+street_address: NH 730, JP hotel
 city: Pilibhit
 state: Uttar Pradesh
 zip_code: 262001
 country: India
-phone: +91-6395364286
+phone: +91-8273396805
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
